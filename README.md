@@ -1,11 +1,9 @@
-# The New COO project : 
-          This is done by 75% yet, as I am currently working on it. Just sent for work sample.
-          
-          Also currently working on an automated ML project. 
-          
-# Clustering projects :
-         They are basic projects from my past internships. I am working on big projects myself related to real life issues. 
-         
+# Welcome to my Project page! 
+# Please feel free to take a look around the project explanations given below
 
-Thank You ! 
+## 1. Change Point Detection using Time Series Analysis:
+      Change point detection is a common problem in time series analysis where the goal is to identify points or intervals in a time series where the underlying data 
+      distribution or behavior changes. It is a valuable technique in various fields, including finance, environmental monitoring, manufacturing, and more. There are 
+      several approaches to change point detection in time series analysis, including statistical methods, Bayesian methods, and machine learning techniques.
+
  
